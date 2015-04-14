@@ -34,7 +34,7 @@ display: inline-block;
 				) ) );
 
 				//$events = eventbrite_get_events([ ], true);
-				//print_r($events);
+				print_r($events);
 				$theDate = explode("T",$events->posts[0]->start->utc );
 				//echo $theDate[0];
 				//echo "   " . count($events->posts);

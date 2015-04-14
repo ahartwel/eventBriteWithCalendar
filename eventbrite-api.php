@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Eventbrite API with Calendar
-Plugin URI: 
+Plugin URI: https://github.com/ahartwel/eventBriteWithCalendar.git
 Description: No different than Automattic's eventbrite plugin, except this one displays a calendar, modified April 14th, 2015
 Version: 1
 Author: SWARM NYC, thanks Automattic!
